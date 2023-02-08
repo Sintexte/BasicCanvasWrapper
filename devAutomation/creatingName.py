@@ -7,7 +7,7 @@ _withJSComment = True
 #CHANGE THIS --> 1 for text, anything else (0) is without text
 _DEBUG = 1
 #CHANGE THIS --> text
-text = "imports"
+text = "Variables"
 
 def generateWithTest(totalsize, text, specialCharacter):
     totalsize -= len(text)
